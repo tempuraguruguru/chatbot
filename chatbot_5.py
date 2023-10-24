@@ -7,7 +7,6 @@ import professor
 import scraping_data
 import sort
 
-#変更
 class MyChatClass():
     BOT_NAME = "研究室お助けBOT"
     html = None
