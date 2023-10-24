@@ -19,7 +19,7 @@ class Professor:
     def get_score(self):#スコア
         return self.score
 
-#変更
+
 
 #辞書を受け取ってクラスにするよ
 #professor = Professor(dic2[i].value, dic1[i].key, dic1[i].value)
