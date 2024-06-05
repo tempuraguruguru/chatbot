@@ -1,9 +1,3 @@
-#作成者(五十音順)
-#21K1123 那須大聖
-#21K1127 野本匠馬
-#21K0035 深美利光
-
-
 from chatbotweb.chat_server import ChatServer
 from janome.analyzer import Analyzer
 from janome.tokenfilter import POSKeepFilter
