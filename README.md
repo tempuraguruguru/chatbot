@@ -9,23 +9,16 @@
 5. おすすめの研究室を提示
 
 使用技術
-以下の技術を使用しているため、それぞれライブラリ　・　パッケージをインストールする必要があります
+以下の技術を使用しているため、それぞれライブラリ　または　パッケージを「pip install XXX」する必要があります
 インストールされていない場合、正しくシステムが起動できないことがあります
 
-1. スクレイピング
-   pip install requests
-   pip install beautifulsoup4
-2. Webフレームワーク
-   pip install chatbotweb
-3. BertModel
-   pip install transformers
-   pip install tensorflow
-   pip install flax
-   pip install fugashi
-   pip install ipadic
-   pip install janome
-   pip install keras
-   pip install torch
+
+1. スクレイピング   
+   requests, beautifulsoup
+3. Webフレームワーク   
+   chatbotweb
+5. BertModel   
+   transformers, tensorflow, flax, fugashi, ipadic, janome, keras, torch
 
 もしかしたら、Huggingfaceのインストールが必要かもしれないので、
 https://huggingface.co/docs/transformers/ja/installation
